@@ -32,7 +32,12 @@ This project uses real-time facial landmark detection and geometric head pose es
 - Mapped head postures to keyboard inputs using PyAutoGUI
 - Works with keyboard-controlled games (e.g., Temple Run, Subway Surfers on emulator)
 
-
+## Tech Stack
+- Language: Python
+- Computer Vision: OpenCV, MediaPipe
+- Math & Geometry: NumPy, Trigonometry
+- Automation: PyAutoGUI
+- System: Webcam, Real-time inference
 
 
 
